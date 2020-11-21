@@ -38,7 +38,9 @@ a:hover {
     color: blue;
 }
 
-
+#img1 {
+    border: solid 10px black;
+}
 
 /* ENDING - OLD CODE BELOW*/
 
