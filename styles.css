@@ -42,6 +42,13 @@ a:hover {
     border: solid 10px black;
 }
 
+.contentBox {
+    background-color: #F9EFEF;
+    padding: 1% 0 1% 0%;
+    margin: 2.5% 15% 1% 15%;
+
+}
+
 /* ENDING - OLD CODE BELOW*/
 
 
