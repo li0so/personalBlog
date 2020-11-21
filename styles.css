@@ -38,11 +38,18 @@ a:hover {
     color: blue;
 }
 
+
+
+/* ENDING - OLD CODE BELOW*/
+
+
+/*.
+
 .blogPost {
     background-color: #F9EFEF;
     margin: 5% 20% 1% 15%;
-    /* margin: 2em 30em 3em 18em; */
-    /* padding: 2em 2em 2em 2em; */
+    margin: 2em 30em 3em 18em;
+    padding: 2em 2em 2em 2em;
     padding: 2% 2% 2% 2%;
     width: auto;
     height: auto;
@@ -59,3 +66,4 @@ a:hover {
     padding-top: 1em;
 }
 
+*/
